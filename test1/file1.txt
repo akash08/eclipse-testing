@@ -8,4 +8,3 @@ this is for updation.
 this is second updation.
 
 this is for sleep.<<conflict>>
-my conflict
